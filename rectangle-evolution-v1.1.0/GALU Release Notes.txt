@@ -1,0 +1,26 @@
+Gallifrey United
+GALU
+
+Rectangle Evolution 1.1.0
+
+This is the first update we have ever made for this game!
+
+Changes:
+You can now change resolution before you start the game.
+
+Graphics:
+No changes in graphics.
+
+Bugfixes:
+No bugfixes in the first version, but there will be
+some bugs in this one so we will fix them in later versions.
+
+Supports:
+No added support
+
+Website:
+Still under development.
+
+Thank you! :)
+
+Gallifrey United

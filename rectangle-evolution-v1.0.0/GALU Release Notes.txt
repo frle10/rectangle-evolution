@@ -1,0 +1,34 @@
+Gallifrey United
+GALU
+
+Rectangle Evolution
+v1.0.0
+
+This is our first game! It`s nothing special.
+In first version you can only move a rectangle
+left, right, up and down. We will constantly release
+new versions so subscribe to our site!
+
+NOTE: GALU site is still in development phase so you can`t subscribe right now!
+
+Rectangle Evolution 1.0.0 review:
+
+Graphics:
+In Rectangle Evolution the background color is white and rectangle color is black.
+
+Bugfixes:
+No bugs in game.
+
+Supports:
+Windows XP (all editions > at least service pack 2 is recommended although it will work on any SP)
+Windows Vista (all editions)
+Windows 7 (all editions)
+Windows 95/ME/98/Server 2008/Server 2003
+
+Will not work on:
+Beta versions of Windows 8 and Win 8 itself
+Linux/Unix/Mac OS/Solaris
+
+Thank you! :)
+
+Gallifrey United
